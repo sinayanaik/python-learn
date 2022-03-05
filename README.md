@@ -2,4 +2,10 @@
 
 interactive learning with python jupyter notebook 
 
-- [x]  1: Getting started with Python Language
+- 1. Getting started
+- 2. string
+- 3. date and time
+- 4. enum
+- 5. set
+- 6. math
+- 7. bitwise operator
