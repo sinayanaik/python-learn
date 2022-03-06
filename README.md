@@ -18,3 +18,4 @@ interactive learning with python jupyter notebook
 14. dictionaries
 15. lists
 16. comprehension
+17. linked list
