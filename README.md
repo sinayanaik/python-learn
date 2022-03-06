@@ -16,3 +16,5 @@ interactive learning with python jupyter notebook
 12. loops
 13. arrays
 14. dictionaries
+15. lists
+16. comprehension
