@@ -12,3 +12,5 @@ interactive learning with python jupyter notebook
 - 8. operator precedence
 - 9. variable scope and binding
 - 10. conditionals
+- 11. comparisions
+- 12. loops
