@@ -9,3 +9,6 @@ interactive learning with python jupyter notebook
 - 5. set
 - 6. math
 - 7. bitwise operator
+- 8. operator precedence
+- 9. variable scope and binding
+- 10. conditionals
