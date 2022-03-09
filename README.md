@@ -21,3 +21,5 @@ interactive learning with python jupyter notebook
 17. linked list
 18. file i/o
 19. functions
+20. decorators
+21. classes
