@@ -25,3 +25,4 @@ interactive learning with python jupyter notebook
 21. classes
 22. generators
 23. regular expressions
+24. exceptions
