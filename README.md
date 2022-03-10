@@ -23,3 +23,5 @@ interactive learning with python jupyter notebook
 19. functions
 20. decorators
 21. classes
+22. generators
+23. regular expressions
