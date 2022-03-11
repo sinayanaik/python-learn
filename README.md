@@ -26,3 +26,4 @@ interactive learning with python jupyter notebook
 22. generators
 23. regular expressions
 24. exceptions
+25. polymorphism
